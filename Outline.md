@@ -1,6 +1,6 @@
 **Auto compressor**
 
-**Objective:** Functionally, this is a program to compress large PDF files. It's intended use is to be a privacy local first solution.
+**Objective:** Functionally, this is a program to compress large PDF files based on ghostscript. It's intended use is to be a privacy local first solution. It will scan the data/raw folder and process any and all files there and create compressed copies in the data/output folder inside their own new directories named after {timestamp}_filename/ with filenames relating to their compression model.
 
 **Key Deliverables:**
 - Flowchart
